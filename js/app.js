@@ -1,3 +1,4 @@
+const startButton = document.querySelector("#btn__reset");
 let game;
 
 // START BUTTON LISTENER
